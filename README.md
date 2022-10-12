@@ -1,1 +1,1 @@
-# shader_uniform_test
+# shader-uniform-test
